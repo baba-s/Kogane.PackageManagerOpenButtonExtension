@@ -1,0 +1,18 @@
+{
+    "name": "Kogane.PackageManagerOpenButtonExtension",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9c3525a61a0434c8a9ff67fa775064b1"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
